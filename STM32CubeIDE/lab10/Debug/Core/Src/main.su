@@ -1,0 +1,12 @@
+main.c:68:5:main	56	static
+main.c:152:6:SystemClock_Config	72	static
+main.c:188:13:MX_USART1_UART_Init	8	static
+main.c:221:13:MX_GPIO_Init	16	static
+main.c:230:6:Flash_Erase_One_Page	112	static
+main.c:264:6:Flash_Write_uint32	96	static
+main.c:287:10:Flash_Read_uint32	96	static
+main.c:302:6:Flash_Write_uint64	112	static
+main.c:325:6:Flash_Write_uint16	96	static
+main.c:348:6:Flash_Erase_Pages	136	static
+main.c:384:6:Flash_Write_Data	112	static
+main.c:423:6:Error_Handler	4	static,ignoring_inline_asm
